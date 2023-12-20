@@ -1,8 +1,8 @@
-# Phase 2 Project Description
+# Bothkom Real Estate Agent.
 
 Another module down - you're almost half way there!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+![awesome](https://www.bing.com/ck/a?!&&p=13d16f5943956f2fJmltdHM9MTcwMTgyMDgwMCZpZ3VpZD0wYzkyYjNlMC03MmE0LTZlZjctMjBiNS1hMWU5NzM1ODZmZWYmaW5zaWQ9NTU0Nw&ptn=3&ver=2&hsh=3&fclid=0c92b3e0-72a4-6ef7-20b5-a1e973586fef&u=a1L2ltYWdlcy9zZWFyY2g_cT1yZWFsIGVzdGF0ZSBwaG90b3MmRk9STT1JUUZSQkEmaWQ9M0M5NjBCODgwQzg4ODNFMkNBMDVCREEwMjQzOEEwMUFGM0YxMTlDRA&ntb=1)
 
 All that remains in Phase 2 is to put your newfound data science skills to use with a large project!
 
@@ -19,10 +19,7 @@ For this project, you will use multiple linear regression modeling to analyze ho
 
 ### Business Problem
 
-It is up to you to define a stakeholder and business problem appropriate to this dataset.
-
-If you are struggling to define a stakeholder, we recommend you complete a project for a real estate agency that helps homeowners buy and/or sell homes. A business problem you could focus on for this stakeholder is the need to provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount.
-
+The real estate agency aims to provide valuable advice to homeowners on how specific home renovations  will impact the estimated value of their homes. The primary objective is to help homeowners make informed decisions about which renovations could potentially yield the highest return on investment in terms of increased property value.
 ### The Data
 
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this assignment's GitHub repository. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions about what the data means.
